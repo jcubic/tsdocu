@@ -10,8 +10,10 @@
   "keywords": [
     "typescript",
     "markdown",
+    "generator",
     "jsdoc",
-    "tsdoc"
+    "tsdoc",
+    "documentation"
   ],
   "author": {
     "name": "Jakub T. Jankiewicz",
