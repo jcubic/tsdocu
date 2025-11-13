@@ -14,12 +14,21 @@ npx -y tsdocu
 
 ## Config
 
+Create a file named `tsdocu.json`, here is example content:
+
 ```json
 {
-   "include": ["src/**/**.tsx?"],
-   "exclude": ["**/*.test.tsx?", "**/*.spec.tsx?"]
+  "path": "snapp",
+  "include": ["src/**/*.{ts,tsx}"],
+  "exclude": ["**/*.test.{tsx,ts}", "node_modules/**"],
+  "output": "docs"
 }
 ```
+
+* `path` (string) - an entry point
+* `include` (`string | string[]`) - glob of the files you want to include
+* `exclude` (`string | string[]`) - glob of the files to exclude
+* `output` (`string`) - output directory
 
 ## License
 
