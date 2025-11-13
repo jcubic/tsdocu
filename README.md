@@ -1,4 +1,8 @@
-# tsDOCU
+<h1 align="center">
+  <a href="https://github.com/jcubic/tsdocu">
+    <img src="https://github.com/jcubic/tsdocu/blob/master/.github/logo.svg?raw=true" />
+  </a>
+</h1>
 
 Simple tsdoc Markdown documentation generator
 
