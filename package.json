@@ -1,7 +1,7 @@
 {
   "name": "tsdocu",
   "version": "0.0.1",
-  "description": "",
+  "description": "Simple tsdoc Markdown documentation generator",
   "main": "index.js",
   "bin": {
     "tsdocu": "bin/cli.js"
