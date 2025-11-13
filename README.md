@@ -1,4 +1,4 @@
-# tsDocu
+# tsDOCU
 
 Simple tsdoc Markdown documentation generator
 
