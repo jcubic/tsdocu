@@ -25,10 +25,10 @@ Create a file named `tsdocu.json`, here is example content:
 }
 ```
 
-* `path` (string) - an entry point
-* `include` (`string | string[]`) - glob of the files you want to include
-* `exclude` (`string | string[]`) - glob of the files to exclude
-* `output` (`string`) - output directory
+* `path` (`string`) - an entry point,
+* `include` (`string | string[]`) - glob of the files you want to include,
+* `exclude` (`string | string[]`) - glob of the files to exclude,
+* `output` (`string`) - output directory.
 
 ## License
 
