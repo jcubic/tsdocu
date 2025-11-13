@@ -6,13 +6,21 @@
   "bin": {
     "tsdocu": "bin/cli.js"
   },
-  "scripts": { },
-  "keywords": ["typescript", "markdown", "jsdoc", "tsdoc"],
+  "scripts": {},
+  "keywords": [
+    "typescript",
+    "markdown",
+    "jsdoc",
+    "tsdoc"
+  ],
   "author": {
     "name": "Jakub T. Jankiewicz",
     "email": "jcubic@onet.pl",
     "url": "https://jakub.jankiewicz.org"
   },
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "glob": "^11.0.3"
+  }
 }
